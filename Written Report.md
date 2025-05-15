@@ -322,4 +322,4 @@ AI debugging was capable of identifying and fixing issues in the code if given t
 - Offering test cases as examples can help AI helpers to understand the problem better and provide more accurate solutions.
 
 ### 4.3. Limitations of AI debugging
-AI debugging is not perfect when conducting given instructions (for example, it would like to edit the code unexpectedly like changing codes in unrelated parts, etc.), and in most of the time, it is possible to get a wrong solution with undetectable errors (for instance, it would leave a bug in the code without noticing that the test cases still failed, etc.).
+AI debugging is not perfect when conducting given instructions (for example, it would like to edit the code unexpectedly like changing codes in unrelated parts, or in its own style of variables and functions, etc.), and in most of the time, it is possible to get a wrong solution with undetectable errors (for instance, it would leave a bug in the code without noticing that the test cases still failed, etc.).
